@@ -1,0 +1,118 @@
+Left:
+
+Sim -> Water Resistant -> Display Type (Type)
+
+
+
+Mobile Name
+
+Released
+
+weight
+
+Operating system
+
+Storage
+
+Display Size
+
+Pixels
+
+Ram
+
+Camera Mp
+
+Battry Size
+
+
+
+
+
+
+Technology
+
+Announced
+
+Status
+
+Dimensions
+
+Weight
+
+Build
+
+Sim
+
+Display Type
+
+Size Display
+
+Resolution
+
+Protection
+
+Plateform OS
+
+Chipset
+
+CPU
+
+GPU
+
+Memory Card Slot
+
+Internal
+
+Main Camera Single
+
+Features
+
+Video
+
+Selfie Camera single
+
+features
+
+Selfi Camera Video
+
+Loudspeaker
+
+3.5mm Jack
+
+Wlan
+
+Bluetooth
+
+Gps
+
+Nfc
+
+Radio
+
+Usb
+
+Sensor
+
+Battery Type 
+
+Charging
+
+Colors
+
+Models
+
+Sar
+
+Sar EU
+
+Price
+
+Performace
+
+Display
+
+Camera : 
+
+Loudspeakers
+
+Battery Life
